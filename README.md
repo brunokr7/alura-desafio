@@ -1,4 +1,4 @@
-<h1>Amigo Secreto</h1>
+<h1>Challenge Amigo Secreto</h1>
 <h2>Sobre</h2>
 <p>Este é um projeto utilizado no curso de lógica de programação da <strong>Alura</strong> que tem como objetivo <strong>Automatizar</strong> o sorteio de pessoas que irão participar do amigo oculto de forma aleatória dos participantes, garantindo
 que cada participante receba uma sugestão de amigo secreto sem repetiçoes. </p>
@@ -13,5 +13,4 @@ que cada participante receba uma sugestão de amigo secreto sem repetiçoes. </p
   <li>Bruno Fernandes</li>
   <li>Instrutores da Alura</li>
 </ul>
-<h2>Importante</h2>
-<p>Necessário lembrar que ainda há necessidade de melhoras no decorrer do ciclo do desenvolvimento do software para modelagem de acordo com a necessidade dos usuários. </p>
+
